@@ -13,18 +13,9 @@
   "author": "ME:)",
   "license": "ISC",
   "dependencies": {
-<<<<<<< HEAD
     "body-parser": "^1.19.0",
     "jest": "^29.7.0",
     "json-server": "^0.16.3",
     "jsonwebtoken": "^8.1.0"
-=======
-    "body-parser": "^1.20.3",
-    "json-server": "^1.0.0-beta.3",
-    "jsonwebtoken": "^9.0.2"
-  },
-  "devDependencies": {
-    "jest": "^29.7.0"
->>>>>>> eaf817969b68f9edd725a6b1371f93c0d89f22ae:"29.7.0"
   }
 }
